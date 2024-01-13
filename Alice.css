@@ -1,0 +1,41 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 143px;
+  left: 0;
+  right: auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-family: KodomoRounded;
+  margin: 8px auto 0 156px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: KodomoRounded;
+  margin-left: 156px;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 98px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 98px;
+  }
+}@font-face {
+  font-family: 'KodomoRounded';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/KodomoRounded.otf);
+}

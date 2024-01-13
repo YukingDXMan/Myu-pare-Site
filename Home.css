@@ -8,8 +8,13 @@
 
 .u-section-1 .u-text-1 {
   font-family: KodomoRounded;
-  font-size: 3.75rem;
-  margin: 73px 17px 60px auto;
+  font-size: 3rem;
+  margin: 71px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 767px) {
