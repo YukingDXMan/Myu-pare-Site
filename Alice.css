@@ -15,41 +15,22 @@
 .u-section-1 .u-text-1 {
   font-size: 3rem;
   font-family: KodomoRounded;
-  margin: 13px auto 0 260px;
+  margin: 12px auto 0 160px;
 }
 
 .u-section-1 .u-text-2 {
   font-family: KodomoRounded;
-  margin: 24px 246px 60px auto;
-}
-
-@media (max-width: 991px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 199px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-right: 188px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 149px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-right: 141px;
-  }
+  text-transform: uppercase;
+  margin: 14px auto 60px 174px;
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    margin-left: 94px;
+    margin-left: 101px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 89px;
+    margin-left: 110px;
   }
 }@font-face {
   font-family: 'KodomoRounded';
